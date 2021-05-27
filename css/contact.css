@@ -1,0 +1,69 @@
+.panel-info .panel-heading{
+    background-color: #337ab7;
+    color: #fff;
+}
+.sidebar-header{
+    margin-top: 10px;
+    background-color: #337ab7;
+    color: #fff;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+
+.sidebar-content{
+    background-color: #d9edf7;
+    margin: 20px 0;
+    border-radius: 5px;
+}
+
+.phonecall{
+    padding: 10px 5px;
+}
+
+.phonecall p{
+    font-family: arial;
+}
+
+.socailMedia{
+    padding: 10px 5px;
+}
+
+.mail{
+    padding: 10px 5px;
+}
+
+h3{
+    margin-top: 10px;
+}
+
+.leftside{
+   background-color: #d9edf7;
+}
+
+.leftside img{
+    height: 500px;
+    width: 100%;
+    overflow: hidden;
+}
+
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:105%;
+    position:relative;
+    height:0;
+}
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+}
+
+.sidebar-heading{
+    padding: 10px 20px;
+}
+
+.panel-footer{
+    margin-top: 550px;
+}

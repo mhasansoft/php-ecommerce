@@ -7,7 +7,7 @@
     // var_dump($_SESSION);
     // var_dump($_POST);    
 
-    $admin_id = $_SESSION['admin_id'];
+    $admin_id = $_SESSION['uid'];
 
     $count = count($_POST['product_id'])-1;
     $trx_id = substr(strtoupper(sha1(md5(time().rand(10001, 99999)))), 0,8);

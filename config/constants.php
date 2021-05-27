@@ -3,7 +3,7 @@
 define('HOST', 'localhost');
 define('USER', 'root');
 define('PASSWORD', '');
-define('DATABASE_NAME', 'k3');
+define('DATABASE_NAME', 'kenakata');
 
 define('CURRENCY', '$');
 

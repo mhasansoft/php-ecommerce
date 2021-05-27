@@ -115,7 +115,7 @@ if (isset($_POST["f_name"])) {
 		$servername = "localhost";
 		$dbusername = "root";
 		$dbpassword = "";
-		$dbname 	= "k3";
+		$dbname 	= "kenakata";
 
 		// Create connection
 		try {
